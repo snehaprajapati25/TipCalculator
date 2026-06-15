@@ -44,5 +44,3 @@ Tip-Calculator/
    - Amount each person has to pay
 
 
-
-Made with ❤️ by **Your Name**
